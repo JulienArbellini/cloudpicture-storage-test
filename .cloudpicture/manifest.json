@@ -2,6 +2,30 @@
   "version": 1,
   "repo": "cloudpicture-storage-test",
   "owner": "JulienArbellini",
-  "updatedAt": "2026-04-02T17:34:38.406Z",
-  "assets": []
+  "updatedAt": "2026-04-02T17:34:51.477Z",
+  "assets": [
+    {
+      "id": "cloudpicture-storage-test:uploads/2026/04/20260402173449-efc37368-img-3220-copie.webp",
+      "repoName": "cloudpicture-storage-test",
+      "repoVisibility": "public",
+      "fileName": "20260402173449-efc37368-img-3220-copie.webp",
+      "originalName": "IMG_3220 copie.webp",
+      "path": "uploads/2026/04/20260402173449-efc37368-img-3220-copie.webp",
+      "mimeType": "image/webp",
+      "extension": "webp",
+      "sizeBytes": 757056,
+      "width": 2800,
+      "height": 2100,
+      "createdAt": "2026-04-02T17:34:49.893Z",
+      "updatedAt": "2026-04-02T17:34:49.893Z",
+      "tags": [
+        "cloudpicture-storage-test"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/JulienArbellini/cloudpicture-storage-test/main/uploads/2026/04/20260402173449-efc37368-img-3220-copie.webp",
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/JulienArbellini/cloudpicture-storage-test@main/uploads/2026/04/20260402173449-efc37368-img-3220-copie.webp",
+        "html": "https://github.com/JulienArbellini/cloudpicture-storage-test/blob/main/uploads/2026/04/20260402173449-efc37368-img-3220-copie.webp"
+      }
+    }
+  ]
 }
