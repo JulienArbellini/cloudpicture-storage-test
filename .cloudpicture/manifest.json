@@ -2,8 +2,31 @@
   "version": 1,
   "repo": "cloudpicture-storage-test",
   "owner": "JulienArbellini",
-  "updatedAt": "2026-04-02T17:34:51.477Z",
+  "updatedAt": "2026-04-02T17:49:18.088Z",
   "assets": [
+    {
+      "id": "cloudpicture-storage-test:uploads/2026/04/20260402174916-61617050-wallpaperflare-com-wallpaper.webp",
+      "repoName": "cloudpicture-storage-test",
+      "repoVisibility": "public",
+      "fileName": "20260402174916-61617050-wallpaperflare-com-wallpaper.webp",
+      "originalName": "wallpaperflare.com_wallpaper.webp",
+      "path": "uploads/2026/04/20260402174916-61617050-wallpaperflare-com-wallpaper.webp",
+      "mimeType": "image/webp",
+      "extension": "webp",
+      "sizeBytes": 651726,
+      "width": 2800,
+      "height": 1810,
+      "createdAt": "2026-04-02T17:49:16.781Z",
+      "updatedAt": "2026-04-02T17:49:16.781Z",
+      "tags": [
+        "cloudpicture-storage-test"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/JulienArbellini/cloudpicture-storage-test/main/uploads/2026/04/20260402174916-61617050-wallpaperflare-com-wallpaper.webp",
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/JulienArbellini/cloudpicture-storage-test@main/uploads/2026/04/20260402174916-61617050-wallpaperflare-com-wallpaper.webp",
+        "html": "https://github.com/JulienArbellini/cloudpicture-storage-test/blob/main/uploads/2026/04/20260402174916-61617050-wallpaperflare-com-wallpaper.webp"
+      }
+    },
     {
       "id": "cloudpicture-storage-test:uploads/2026/04/20260402173449-efc37368-img-3220-copie.webp",
       "repoName": "cloudpicture-storage-test",
